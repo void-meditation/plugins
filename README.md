@@ -1,3 +1,7 @@
+This package is cloned from the following
+https://crizantlai.medium.com/flutter-how-to-make-webview-transparent-9e3ce25d8d0
+https://github.com/crizant/plugins/tree/webview-transparent-background
+
 # WebView for Flutter
 
 [![pub package](https://img.shields.io/pub/v/webview_flutter.svg)](https://pub.dartlang.org/packages/webview_flutter)
